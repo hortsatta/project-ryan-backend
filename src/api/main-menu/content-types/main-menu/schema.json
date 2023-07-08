@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_menus",
+  "info": {
+    "singularName": "main-menu",
+    "pluralName": "main-menus",
+    "displayName": "Main Menu"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "items": {
+      "type": "json"
+    }
+  }
+}

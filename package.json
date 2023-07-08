@@ -1,0 +1,30 @@
+{
+  "name": "project-ryan-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "author": {
+    "name": "Erwin Errol Calanuga"
+  },
+  "strapi": {
+    "uuid": "901f87af-2d55-410c-980b-ba313895f43b"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "4.11.4",
+    "@strapi/plugin-users-permissions": "4.11.4",
+    "@strapi/provider-upload-cloudinary": "^4.11.4",
+    "@strapi/strapi": "4.11.4",
+    "pg": "8.8.0"
+  }
+}
