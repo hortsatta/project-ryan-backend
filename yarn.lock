@@ -5868,7 +5868,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cross-env@npm:^7.0.3":
+"cross-env@npm:7.0.3, cross-env@npm:^7.0.3":
   version: 7.0.3
   resolution: "cross-env@npm:7.0.3"
   dependencies:
@@ -11297,6 +11297,7 @@ __metadata:
     "@strapi/plugin-users-permissions": 4.11.4
     "@strapi/provider-upload-cloudinary": ^4.11.4
     "@strapi/strapi": 4.11.4
+    cross-env: 7.0.3
     pg: 8.8.0
   languageName: unknown
   linkType: soft

@@ -17,6 +17,7 @@
   "scripts": {
     "dev": "strapi develop",
     "start": "strapi start",
+    "start-prod": "cross-env NODE_ENV=production strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
@@ -26,5 +27,8 @@
     "@strapi/provider-upload-cloudinary": "^4.11.4",
     "@strapi/strapi": "4.11.4",
     "pg": "8.8.0"
+  },
+  "devDependencies": {
+    "cross-env": "7.0.3"
   }
 }

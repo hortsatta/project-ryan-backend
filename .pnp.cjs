@@ -32,6 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@strapi/plugin-users-permissions", "virtual:d3540c0a95cd00628c86c87314e5820bfa2dc93954239d8ff8b6a38f0d7084a0478c7f71ebcc465edd1354a355875e6bdc58ac78a3c4ef8981fbf11488efb1a6#npm:4.11.4"],\
             ["@strapi/provider-upload-cloudinary", "npm:4.11.4"],\
             ["@strapi/strapi", "npm:4.11.4"],\
+            ["cross-env", "npm:7.0.3"],\
             ["pg", "virtual:d3540c0a95cd00628c86c87314e5820bfa2dc93954239d8ff8b6a38f0d7084a0478c7f71ebcc465edd1354a355875e6bdc58ac78a3c4ef8981fbf11488efb1a6#npm:8.8.0"]\
           ],\
           "linkType": "SOFT"\
@@ -15143,6 +15144,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@strapi/plugin-users-permissions", "virtual:d3540c0a95cd00628c86c87314e5820bfa2dc93954239d8ff8b6a38f0d7084a0478c7f71ebcc465edd1354a355875e6bdc58ac78a3c4ef8981fbf11488efb1a6#npm:4.11.4"],\
             ["@strapi/provider-upload-cloudinary", "npm:4.11.4"],\
             ["@strapi/strapi", "npm:4.11.4"],\
+            ["cross-env", "npm:7.0.3"],\
             ["pg", "virtual:d3540c0a95cd00628c86c87314e5820bfa2dc93954239d8ff8b6a38f0d7084a0478c7f71ebcc465edd1354a355875e6bdc58ac78a3c4ef8981fbf11488efb1a6#npm:8.8.0"]\
           ],\
           "linkType": "SOFT"\
