@@ -25,8 +25,7 @@
       "maxLength": 750
     },
     "whyChooseUsContent": {
-      "type": "richtext",
-      "maxLength": 750
+      "type": "richtext"
     },
     "callToActionContent": {
       "type": "richtext",
@@ -35,6 +34,11 @@
     "technologiesContent": {
       "type": "richtext",
       "maxLength": 750
+    },
+    "whyChooseUsList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.why-choose-us-list"
     }
   }
 }

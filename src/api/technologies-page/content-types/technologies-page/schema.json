@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "technologies_pages",
+  "info": {
+    "singularName": "technologies-page",
+    "pluralName": "technologies-pages",
+    "displayName": "Technologies Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "maxLength": 255
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

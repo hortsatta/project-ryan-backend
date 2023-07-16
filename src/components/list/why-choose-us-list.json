@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_list_why_choose_us_lists",
+  "info": {
+    "displayName": "Why Choose Us List",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "maxLength": 255
+    },
+    "content": {
+      "type": "text",
+      "maxLength": 750
+    }
+  }
+}
